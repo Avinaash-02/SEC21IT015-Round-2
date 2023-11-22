@@ -25,11 +25,12 @@ nav ul li {
     border-radius: 50px;
 }
 
-.alert {
+
+/* .alert {
     padding: 20px;
     background-color: black;
     color: #ffffff;
-}
+} */
 
 .del {
     position: absolute;
@@ -40,6 +41,10 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
+}
+
+.alert h1 {
+    color: black;
 }
 
 #video {
@@ -87,6 +92,7 @@ h1 {
 .alert {
     width: 400px;
     background-color: black;
+    border-radius: 50px;
 }
 
 .acc input {
